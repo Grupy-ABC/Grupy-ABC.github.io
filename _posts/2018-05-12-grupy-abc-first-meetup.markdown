@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Primeiro encontro do GruPy-ABC"
-date:   2018-05-04 10:15:17 -0300
+title:  "Primeiro encontro do GruPy-ABC - (12/05)"
+date:   2018-05-12 10:15:17 -0300
 categories: grupy-abc meetups
 ---
 
