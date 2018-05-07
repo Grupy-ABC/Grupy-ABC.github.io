@@ -7,7 +7,7 @@ categories: grupy-abc meetups
 
 Bora comemorar o nascimento do GruPy-ABC, grupo de usuários Python do Grande ABC Paulista!
 
-O evento acontecerá na <b> UFABC, campus de Santo André, no dia 12/05/2018 à tarde, gratuitamente. </b>
+O evento acontecerá na <b> UFABC, campus de Santo André, no dia 12/05/2018 das 13h00 às 18h00, gratuitamente. </b>
 
 Quer palestrar no evento? Submeta sua palestra no [Speaker Fight][speaker-fight].
 
