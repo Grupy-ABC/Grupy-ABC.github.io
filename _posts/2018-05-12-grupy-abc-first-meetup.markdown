@@ -14,7 +14,6 @@ ___
 
 ## Cadastre-se Para entrada!
 Link de acesso para o [formulário][form-data] com dados para entrada.
-___
 
 
 ## Como Chegar
