@@ -9,8 +9,20 @@ Bora comemorar o nascimento do GruPy-ABC, grupo de usuários Python do Grande AB
 
 O evento acontecerá na __UFABC, campus de Santo André, no dia 12/05/2018 das 09h00 às 18h00, gratuitamente__.
 
-## Programação Em breve!
-___
+## Programação
+
+| Programação                                                                                | Inicio     | Termino |
+| ---------------------------------------------- --------------------------------------------|:----------:| -------:|
+| Criando Um Servidor Web Do Zero, Sem Framework                                             | 09:00      |   12:00 |
+| Almoço                                                                                     | 12:00      |   13:00 |
+| De Zero A Dev Em 3 Meses                                                                   | 13:00      |   13:50 |
+| Analise De Segurança Da Informação Com Python                                              | 13:55      |   14:20 |
+| Módulos Python com Rust                                                                    | 14:25      |   15:15 |
+| Coffee Break                                                                               | 15:15      |   15:40 |
+| Prática De Conjuntos Em Python                                                             | 15:40      |   16:05 |
+| As Configurações Pertencem Ao Ambiente: Dicas De Gerenciamento De Configurações Com Python | 16:10      |   17:00 |
+| Python Runtime Sem Gil Em Golang: Grumpy                                                   | 17:05      |   17:30 |
+| Lightning Talks                                                                            | 17:35      |   18:00 |
 
 ## Cadastre-se Para entrada!
 Link de acesso para o [formulário][form-data] com dados para entrada.
