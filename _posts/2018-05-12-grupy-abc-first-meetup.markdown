@@ -24,8 +24,7 @@ O evento acontecerá na __UFABC, campus de Santo André, no dia 12/05/2018 das 0
 | Python Runtime Sem Gil Em Golang: Grumpy                                                   | 17:05      |   17:30 |
 | Lightning Talks                                                                            | 17:35      |   18:00 |
 
-## Cadastre-se Para entrada!
-Link de acesso para o [formulário][form-data] com dados para entrada.
+## [Cadastre-se para entrada!][form-data]
 
 
 ## Como Chegar
