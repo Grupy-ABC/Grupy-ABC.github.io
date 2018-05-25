@@ -1,0 +1,20 @@
+<div class="sidebar ">
+  <h2>Recent Posts</h2>
+  <ul>
+    {% for post in site.posts limit:5 %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+<!-- <div class="sidebar"> -->
+  <!-- <h2>Tags</h2> -->
+  <!-- <ul class="sideBarTags"> -->
+    <!-- {% assign tags = (site.tags | sort:0) %} -->
+    <!-- {% for tag in tags %} -->
+    <!-- <li> -->
+      <!-- <a href="{{ '/tag/' | append: tag[0] | relative_url }}" data-toggle="tooltip" data-placement="right" title="{{ tag[1].size }}"> -->
+        <!-- <span>{{tag[0] }}</span></a></li> -->
+    <!-- {% endfor %} -->
+  <!-- </ul> -->
+<!-- </div> -->
