@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sobre
-permalink: /sobre/
 ---
 
 Grupo para unir os desenvolvedores e usuários de Python da região do ABC e do estado de São Paulo.
