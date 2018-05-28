@@ -25,6 +25,7 @@ O evento acontecerá na __UFABC, campus de Santo André na Sala S-213, no dia 12
 | As Configurações Pertencem Ao Ambiente: Dicas De Gerenciamento De Configurações Com Python | 16:40      |   17:30 |
 | Lightning Talks                                                                            | 17:35      |   18:00 |
 
+link da grade através do [speakerfight][speakerfight-schedule]
 
 ## Como Chegar
 ___
@@ -32,3 +33,4 @@ ___
 
 [speaker-fight]: https://speakerfight.com/events/primeiro-encontro-do-grupy-abc/
 [form-data]: https://renanmoura1.typeform.com/to/DDUPem
+[speakerfight-schedule]: https://speakerfight.com/events/primeiro-encontro-do-grupy-abc/schedule/
