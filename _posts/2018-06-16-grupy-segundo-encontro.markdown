@@ -8,7 +8,7 @@ categories: grupy-abc meetups
 Bora realizar o nosso segundo encontro do GruPy-ABC, o grupo de usuários de Python do Grande ABC Paulista!
 
 
-O evento acontecerá na __FATEC Antonio Russo, em São Caetano do Sul, no dia 16/06/2018 gratuitamente__.
+O evento acontecerá na __FATEC Antonio Russo, em São Caetano do Sul, no dia 16/06/2018 das 11:00 às 19:00 gratuitamente__.
 
 ##  [Cadastre-se para entrada no local][form-cadastro]
 
