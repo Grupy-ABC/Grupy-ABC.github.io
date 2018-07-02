@@ -17,7 +17,7 @@ O evento acontecerá na __FATEC Antonio Russo, em São Caetano do Sul, no dia 16
 | Usando o Cloudinary como alternativa ao S3 da AWS                                          | 11:00      |   11:45 |
 | Gerenciando e programando AWS com Python                                                   | 11:50      |   12:35 |
 | Almoço                                                                                     | 12:40      |   13:10 |
-| Como o Python bem ajudando na investigação de doenças complexas?                           | 13:10      |   13:55 |
+| Introdução à Orientação a Objetos com Python                                               | 13:10      |   13:55 |
 | Testes Unitários com Python - Os primeiros passos                                          | 13:55      |   15:55 |
 | Coffee Break                                                                               | 15:55      |   16:15 |
 | Testes Unitários com Python - Os primeiros passos(pt2)                                     | 16:15      |   18:15 |
