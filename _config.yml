@@ -4,6 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   do ABC e do estado de São Paulo.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "grupy" # the base hostname & protocol for your site, e.g. http://example.com
+future: true
 
 author: Desenvolvido por Pavel Makhov.
 copyright: 2015-2017
