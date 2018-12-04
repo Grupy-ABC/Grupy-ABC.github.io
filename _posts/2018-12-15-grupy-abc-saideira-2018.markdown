@@ -5,7 +5,7 @@ date:   2018-12-15 09:00:00 -0200
 categories: grupy-abc meetups
 ---
 
-Começamos o GruPy-ABC no ano de 2018 na UFABC campus Santo André e encerramentos as atividades desse ano no mesmo local! Encontro de dezembro de 2018 do GruPy-ABC, grupo de usuários Python do Grande ABC Paulista!
+Começamos o GruPy-ABC no ano de 2018 na UFABC campus Santo André e encerraremos as atividades desse ano no mesmo local! Encontro de dezembro de 2018 do GruPy-ABC, grupo de usuários Python do Grande ABC Paulista!
 
 O evento acontecerá na __UFABC, campus de Santo André no Auditório A 101-0, no dia 15/12/2018 das 09h00 às 18h00, gratuitamente__.
 
