@@ -11,8 +11,27 @@ O evento acontecerá na __FATEC Mauá, no dia 09/03/2019 das 09h00 às 16h00, gr
 
 ##  [Cadastre-se para entrada no local][form-cadastro]
 
+Games, terminal e JustPython.
+Introdução ao Consumo de APIs RESTful
+Análise de dados com Python
+Do Zero ao Deploy com Django
+Paralelismo, Concorrência & Memes
+Sanic 18.12 LTS
 
 ## Programação
+
+| Programação                                                                                | Inicio     | Termino |
+| ---------------------------------------------- --------------------------------------------|:----------:| -------:|
+| Do Zero ao Deploy com Django                                                               | 09:30      |   11:30 |
+| Introdução ao Consumo de APIs RESTful                                                      | 11:30      |   12:15 |
+| Almoço                                                                                     | 12:15      |   13:15 |
+| Games, terminal e JustPython.                                                              | 13:15      |   13:35 |
+| Paralelismo, Concorrência & Memes                                                          | 13:40      |   14:30 |
+| Coffee Break                                                                               | 14:30      |   14:50 |
+| Sanic 18.12 LTS                                                                            | 14:55      |   15:45 |
+| Lightning Talks                                                                            | 15:45      |   16:00 |
+
+
 #### [Envie sua atividade!][speakerfight]
 
 ## Como Chegar
