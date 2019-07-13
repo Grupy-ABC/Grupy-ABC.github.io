@@ -5,28 +5,27 @@ date:   2019-07-13 10:00:00 -0200
 categories: grupy-abc meetups
 ---
 
-Pessoal, dia 13 a partir das 10 da manhã vai rolar o encontro mensal de Julho de 2019 do GruPy-ABC!
+Pessoal, dia 13 a partir das 10:00 às 18:00 vai rolar o encontro mensal de Julho de 2019 do GruPy-ABC!
 
 
-O evento acontecerá em São Caetano do Sul, no dia 13/07/2019 das 10h00 às 18h00, gratuitamente__.
+O evento acontecerá em São Caetano do Sul, no dia 13/07/2019, gratuitamente__.
 
 ##  [Cadastre-se para entrada no local][form-cadastro]
 
-## [Envie sua palestra][speakerfight]
+<!-- ## [Envie sua palestra][speakerfight] -->
 
-<!-- ## Programação -->
+## Programação
 
-
-<!-- | Programação                                                                                | Inicio     | Termino |
+| Programação                                                                                | Inicio     | Termino |
 | ---------------------------------------------- --------------------------------------------|:----------:| -------:|
-| Do Zero ao Deploy com Django                                                               | 09:30      |   11:30 |
-| Introdução ao Consumo de APIs RESTful                                                      | 11:30      |   12:15 |
-| Almoço                                                                                     | 12:15      |   13:15 |
-| Games, terminal e JustPython.                                                              | 13:15      |   13:35 |
-| Paralelismo, Concorrência & Memes                                                          | 13:40      |   14:30 |
-| Coffee Break                                                                               | 14:30      |   14:50 |
-| Sanic 18.12 LTS                                                                            | 14:55      |   15:45 |
-| Lightning Talks                                                                            | 15:45      |   16:00 | -->
+| Apresentação inicial                                                                       | 10:00      |   10:20 |
+| Tarefas assíncronas com Django                                                             | 10:20      |   11:00 |
+| Apresentando graphene uma linha graphql para Django                                        | 11:10      |   12:00 |
+| Almoço                                                                                     | 12:00      |   13:35 |
+| Testes de unidade                                                                          | 13:40      |   15:30 |
+| Coffee Break                                                                               | 15:30      |   16:00 |
+| Testes de unidade                                                                          | 16:00      |   17:30 |
+| Lightning Talks                                                                            | 17:35      |   18:00 |
 
 
 ## Como Chegar
