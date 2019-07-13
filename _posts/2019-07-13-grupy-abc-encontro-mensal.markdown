@@ -8,7 +8,7 @@ categories: grupy-abc meetups
 Pessoal, dia 13 a partir das 10:00 às 18:00 vai rolar o encontro mensal de Julho de 2019 do GruPy-ABC!
 
 
-O evento acontecerá em São Caetano do Sul, no dia 13/07/2019, gratuitamente__.
+O evento acontecerá em São Caetano do Sul, no dia 13/07/2019, gratuitamente.
 
 ##  [Cadastre-se para entrada no local][form-cadastro]
 
